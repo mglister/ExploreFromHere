@@ -1,0 +1,6 @@
+D:\mylibrary\Code\ArcObjects\DotNet\ExploreFromHere\ExploreFromHereAddin1\ExploreFromHereAddin1\obj\Debug\ResolveAssemblyReference.cache
+D:\mylibrary\Code\ArcObjects\DotNet\ExploreFromHere\ExploreFromHereAddin1\ExploreFromHereAddin1\bin\Debug\ExploreFromHereAddin1.dll
+D:\mylibrary\Code\ArcObjects\DotNet\ExploreFromHere\ExploreFromHereAddin1\ExploreFromHereAddin1\bin\Debug\ExploreFromHereAddin1.pdb
+D:\mylibrary\Code\ArcObjects\DotNet\ExploreFromHere\ExploreFromHereAddin1\ExploreFromHereAddin1\obj\Debug\ExploreFromHereAddin1.dll
+D:\mylibrary\Code\ArcObjects\DotNet\ExploreFromHere\ExploreFromHereAddin1\ExploreFromHereAddin1\obj\Debug\ExploreFromHereAddin1.pdb
+D:\mylibrary\Code\ArcObjects\DotNet\ExploreFromHere\ExploreFromHereAddin1\ExploreFromHereAddin1\bin\Debug\ExploreFromHereAddin1.esriAddIn

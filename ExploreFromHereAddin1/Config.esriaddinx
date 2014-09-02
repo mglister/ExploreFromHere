@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Explore From Here</Name>
+  <AddInID>{8830b9c4-c8a2-4518-9186-ff5cbbd1060e}</AddInID>
+  <Description>This Add-in allows you to open Windows Explorer from the current Catalog item</Description>
+  <Version>1.0</Version>
+  <Image>Images\ExploreFromHereAddin1.png</Image>
+  <Author>mlister</Author>
+  <Company>ESRI Canada</Company>
+  <Date>10/1/2010</Date>
+  <Targets>
+    <Target name="Desktop" version="10.0" />
+  </Targets>
+  <AddIn language="CLR" library="ExploreFromHereAddin1.dll" namespace="ExploreFromHereAddin">
+    <ArcCatalog>
+      <Commands>
+        <Button id="ESRI_Canada_ExploreFromHereAddin_ExploreFromHere" class="ExploreFromHere" message="Open Windows Explorer from the current location" caption="Explore From Here" tip="Open Windows Explorer from here" category="Add-In Controls" image="Images\ExploreFromHere.png" />
+      </Commands>
+    </ArcCatalog>
+  </AddIn>
+</ESRI.Configuration>
